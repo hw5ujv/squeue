@@ -1,0 +1,5 @@
+name: squeue
+description: view information about jobs located in the Slurm scheduling queue
+icon: fas://server
+category: Files
+subcategory: Utilities
